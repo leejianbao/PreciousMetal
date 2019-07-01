@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1822822500
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bracelet
+      Dependencies: {}
+    Info_1:
+      Name: goldbrick
+      Dependencies: {}
